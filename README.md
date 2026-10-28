@@ -1,4 +1,4 @@
-# CineMatch: a movie recommender system (CSE4143)
+# CineMatch: a movie recommender system
 
 A from-scratch recommender built on **MovieLens 100K** (943 users, 1,682 movies, 100,000 ratings) with an interactive Streamlit app.
 Only numpy/pandas do the maths: no recommender library, so every formula is visible in the code.
